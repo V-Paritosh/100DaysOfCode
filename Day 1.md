@@ -2,7 +2,7 @@
 
 ## Todays Progress
 
-- Followed along ""Code With Sloba" to make a React Portfolio Website 
+- Followed along "Code With Sloba" to make a React Portfolio Website 
 - Done with the navbar
 
 ## Thoughts
